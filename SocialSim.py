@@ -1683,7 +1683,6 @@ HTML_TEMPLATE = '''
                             <h3 class="card-title">使用说明</h3>
                         </div>
                         <div style="font-size: 0.9rem; color: var(--text-secondary); line-height: 1.8;">
-                            <p><strong>1. 获取API Key：</strong>访问 <a href="https://dashscope.console.aliyun.com/" target="_blank" style="color: var(--accent);">阿里云DashScope</a></p>
                             <p><strong>2. 创建世界：</strong>选择模板或自定义，设置后可保存为新模板</p>
                             <p><strong>3. 添加角色：</strong>使用AI自动生成或手动添加</p>
                             <p><strong>4. 配置指标：</strong>使用AI助手快速添加观察指标</p>
