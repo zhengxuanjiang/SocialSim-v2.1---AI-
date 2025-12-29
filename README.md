@@ -18,6 +18,9 @@ SocialSim is an advanced AI-powered social simulation sandbox that allows you to
 - **Data Import/Export**: Export your simulation data for further analysis
 - **Customizable AI**: Configure different Qwen AI models for simulation
 
+- Get your API key via this referral link: [Aliyun DashScope Benefit Page](https://www.aliyun.com/benefit?userCode=hspyk6hk)
+   - Using this link supports the project author with a small referral reward – thank you!
+
 ## 🖼️ Screenshots
 
 ### 1. World Configuration Interface
