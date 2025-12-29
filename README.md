@@ -52,7 +52,7 @@ Configure API connections and application preferences here. Enter your Aliyun Da
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/socialsim.git
+git clone https://github.com/zhengxuanjiang/SocialSim-v2.1---AI-.git
 cd socialsim
 ```
 
